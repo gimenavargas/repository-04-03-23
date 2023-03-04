@@ -1,0 +1,6 @@
+Escribir un codigo de programacion donde me permita 
+imprimir el primer ultimo valor de la lista, For 
+Example: 
+
+list = ["red", "blue" , ...,"white]
+red y white
